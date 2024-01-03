@@ -1,0 +1,37 @@
+[
+    {
+        "imageSrc": "src/Rating.png",
+        "content": "Vestibulum eu quam nec neque pellentesque efficitur id eget nisl. Proin porta est convallis lacus blandit pretium sed non enim. Maecenas lacinia non orci at aliquam. Donec finibus, urna bibendum ultricies laoreet.",
+        "avatarSrc": "src/Avatar1.png",
+        "name": "Chelsea Morgan",
+        "jobTitle": "CEO ot Subway"
+    },
+    {
+        "imageSrc": "src/Rating.png",
+        "content": "In a laoreet purus. Integer turpis quam, laoreet id orci nec, ultrices lacinia nunc. Aliquam erat volutpat. Curabitur fringilla in purus eget egestas. Etiam quis.",
+        "avatarSrc": "src/Avatar2.png",
+        "name": "Nick Cave",
+        "jobTitle": "CEO ot Nokia"
+    },
+    {
+        "imageSrc": "src/Rating.png",
+        "content": "Aliquam pulvinar vestibulum blandit. Donec sed nisl libero. Fusce dignissim luctus sem eu dapibus. Pellentesque vulputate quam a quam volutpat, sed ullamcorper erat commodo.",
+        "avatarSrc": "src/Avatar3.png",
+        "name": "Lana Rosenfeld",
+        "jobTitle": "Senior VP ot Pinterest"
+    },
+    {
+        "imageSrc": "src/Rating.png",
+        "content": "Porta nisl dolor, molestie pellentesque elit molestie in. Morbi metus neque, elementum ullamcorper hendrerit eget, tincidunt et nisi. Sed magna nunc.",
+        "avatarSrc": "src/Avatar4.png",
+        "name": "Giorgi Moroder",
+        "jobTitle": "CTO ot Glovo"
+    },
+    {
+        "imageSrc": "src/Rating.png",
+        "content": "Vestibulum eu quam nec neque pellentesque efficitur id eget nisl. Proin porta est convallis lacus blandit pretium sed non enim. Maecenas lacinia non orci at aliquam. Donec finibus, urna bibendum ultricies laoreet.",
+        "avatarSrc": "src/Avatar2.png",
+        "name": "Young Liu",
+        "jobTitle": "CAO ot Foxconn"
+    }
+]
